@@ -1,0 +1,19 @@
+{
+  "name": "@shabana-umair/number-guessing-",
+  "version": "2.0.0",
+  "description": "this is cli  based  number guessing game...",
+  "main": "index.js",
+"type": "module",
+"publishConfig": {
+  "access": "public"
+},
+"bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
